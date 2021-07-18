@@ -3,4 +3,4 @@
  1-ForwardChking 
  2-Arc Consistency
  3-BackTracking
-uploded in behalf Mohammad Binzouman##MoBinZouman
+uploded in behalf Mohammad Bin zouman ##MoBinZouman and nasser alkhurayji ##inazz97
