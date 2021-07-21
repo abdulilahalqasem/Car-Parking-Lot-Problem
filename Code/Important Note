@@ -1,0 +1,2 @@
+#You must change the path of each picture inside each code, Also in GUI you must change the path for each file.
+#You can fix the geometry to fit well in your own screen, Example --> geometry('1074x630+450+300') you need to Change the 450 for x-axis and 300 for Y-axis
