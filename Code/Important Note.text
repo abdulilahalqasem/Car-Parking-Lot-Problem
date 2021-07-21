@@ -1,2 +1,4 @@
-You must change the path of each picture inside each code, Also in GUI you must change the path for each file.
-You can fix the geometry to fit well on your own screen, Example --> geometry('1074x630+450+300') you need to Change the 450 for x-axis and 300 for Y-axis
+  You must change the path of all images inside the code in each file, also in the file "GUI" you must change the path for the 
+three files (ForwardCheking, ArcConsistency, Backtracking).
+
+You can fix the geometry to fit well on your own screen, geometry('1074x630+450+300') for example to geometry('1074x630+550+250').
